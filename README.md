@@ -1,5 +1,5 @@
 # Geospace-AI
-Repo for machine and deep learning applications to geospatial analysis in real-world applications. 
+Repo for machine and deep learning methods for geospatial analysis in real-world applications. 
 Some of the projects intended to be developed are:
 
 - Automatic classification of land covers by means of Convolutional Neural Networks, both pre-trained models and original developments.
